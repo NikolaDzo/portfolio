@@ -248,7 +248,7 @@ function portfolioComponent ({ data = {}, theme = {} } = {}) {
   }
   function unhoverPortfolio() { yo.update(element, template()) }
   function openNewTab() {
-    var url = "https://esova-ana.github.io/quiz/"
+    var url = "https://nikoladzo.github.io/quiz/"
     var tab = window.open(url, '_blank')
     tab.focus()
   }
