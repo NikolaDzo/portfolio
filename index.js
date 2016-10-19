@@ -312,7 +312,7 @@ function footerComponent ({ data = {}, theme = {} } = {}) {
         <a href="mailto:nikolasretenovicdzo@gmail.com ">
         <i class="${css.icon} fa fa-envelope-o" aria-hidden="true"></i>
       </a>
-      <a href="https://www.facebook.com/E-Sova-1040698875990332/">
+      <a href="https://www.facebook.com/nikola.sretenovic.969">
        <i class="${css.icon} fa fa-facebook" aria-hidden="true"></i>
       </a>
     </div>
